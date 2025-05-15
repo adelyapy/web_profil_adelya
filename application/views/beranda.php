@@ -1,11 +1,11 @@
 <section class="resume-section" id="about">
     <div class="resume-section-content">
         <h1 class="mb-0">
-            Nama<span class="text-primary">Anda</span>
+            Nama<span class="Adelya Putri Yunita">Anda</span>
         </h1>
         <div class="subheading mb-5">
             Alamat Email Anda · Nomor Telepon Anda
-            <a href="mailto:name@email.com">name@email.com</a>
+            <a href="adelyapy23@gmail.com">name@email.com</a>
         </div>
         <p class="lead mb-5">Tuliskan deskripsi singkat tentang diri Anda di sini. Jelaskan keahlian, pengalaman, dan apa yang Anda tawarkan.</p>
         <div class="social-icons">
